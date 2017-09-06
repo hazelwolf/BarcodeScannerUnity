@@ -1,0 +1,23 @@
+D:\Development\GTOProject\RFP\Wallmart\Library\SmartPick\ScanningManager\bin\Debug\ScanningManager.dll
+D:\Development\GTOProject\RFP\Wallmart\Library\SmartPick\ScanningManager\bin\Debug\ScanningManager.pdb
+D:\Development\GTOProject\RFP\Wallmart\Library\SmartPick\ScanningManager\obj\Debug\ScanningManager.dll
+D:\Development\GTOProject\RFP\Wallmart\Library\SmartPick\ScanningManager\obj\Debug\ScanningManager.pdb
+D:\Development\GTOProject\RFP\Wallmart\Project\Libraries\SmartPick\ScanningManager\bin\Debug\ScanningManager.dll
+D:\Development\GTOProject\RFP\Wallmart\Project\Libraries\SmartPick\ScanningManager\bin\Debug\ScanningManager.pdb
+D:\Development\GTOProject\RFP\Wallmart\Project\Libraries\SmartPick\ScanningManager\obj\Debug\ScanningManager.dll
+D:\Development\GTOProject\RFP\Wallmart\Project\Libraries\SmartPick\ScanningManager\obj\Debug\ScanningManager.pdb
+<<<<<<< HEAD
+D:\Projects\WalmartPOC\Libraries\SmartPick\ScanningManager\obj\Debug\ScanningManager.csprojResolveAssemblyReference.cache
+D:\Projects\WalmartPOC\Libraries\SmartPick\ScanningManager\obj\Debug\ScanningManager.dll
+D:\Projects\WalmartPOC\Libraries\SmartPick\ScanningManager\obj\Debug\ScanningManager.pdb
+D:\Projects\WalmartPOC\Libraries\SmartPick\ScanningManager\bin\Debug\ScanningManager.dll
+D:\Projects\WalmartPOC\Libraries\SmartPick\ScanningManager\bin\Debug\ScanningManager.pdb
+D:\Projects\WalmartPOC\Libraries\SmartPick\ScanningManager\bin\Debug\UnityEngine.dll
+D:\Projects\WalmartPOC\Libraries\SmartPick\ScanningManager\bin\Debug\zxing.unity.dll
+D:\Projects\WalmartPOC\Libraries\SmartPick\ScanningManager\bin\Debug\UnityEngine.xml
+=======
+D:\Development\GTOProject\RFP\Wallmart\Project\Assets\Plugins\ScanningManager.dll
+D:\Development\GTOProject\RFP\Wallmart\Project\Assets\Plugins\ScanningManager.pdb
+>>>>>>> 426198c7a3ba481d26819e887fc3c13ca3cbf646
+D:\Projects\WalmartPOC\Assets\Plugins\ScanningManager.dll
+D:\Projects\WalmartPOC\Assets\Plugins\ScanningManager.pdb
